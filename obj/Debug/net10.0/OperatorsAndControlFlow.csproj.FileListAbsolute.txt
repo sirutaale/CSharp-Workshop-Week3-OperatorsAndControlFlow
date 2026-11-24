@@ -1,0 +1,14 @@
+C:\Users\acer\OneDrive\Documents\C#\week 3\OperatorsAndControlFlow\bin\Debug\net10.0\OperatorsAndControlFlow.exe
+C:\Users\acer\OneDrive\Documents\C#\week 3\OperatorsAndControlFlow\bin\Debug\net10.0\OperatorsAndControlFlow.deps.json
+C:\Users\acer\OneDrive\Documents\C#\week 3\OperatorsAndControlFlow\bin\Debug\net10.0\OperatorsAndControlFlow.runtimeconfig.json
+C:\Users\acer\OneDrive\Documents\C#\week 3\OperatorsAndControlFlow\bin\Debug\net10.0\OperatorsAndControlFlow.dll
+C:\Users\acer\OneDrive\Documents\C#\week 3\OperatorsAndControlFlow\bin\Debug\net10.0\OperatorsAndControlFlow.pdb
+C:\Users\acer\OneDrive\Documents\C#\week 3\OperatorsAndControlFlow\obj\Debug\net10.0\OperatorsAndControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive\Documents\C#\week 3\OperatorsAndControlFlow\obj\Debug\net10.0\OperatorsAndControlFlow.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive\Documents\C#\week 3\OperatorsAndControlFlow\obj\Debug\net10.0\OperatorsAndControlFlow.AssemblyInfo.cs
+C:\Users\acer\OneDrive\Documents\C#\week 3\OperatorsAndControlFlow\obj\Debug\net10.0\OperatorsAndControlFlow.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Documents\C#\week 3\OperatorsAndControlFlow\obj\Debug\net10.0\OperatorsAndControlFlow.dll
+C:\Users\acer\OneDrive\Documents\C#\week 3\OperatorsAndControlFlow\obj\Debug\net10.0\refint\OperatorsAndControlFlow.dll
+C:\Users\acer\OneDrive\Documents\C#\week 3\OperatorsAndControlFlow\obj\Debug\net10.0\OperatorsAndControlFlow.pdb
+C:\Users\acer\OneDrive\Documents\C#\week 3\OperatorsAndControlFlow\obj\Debug\net10.0\OperatorsAndControlFlow.genruntimeconfig.cache
+C:\Users\acer\OneDrive\Documents\C#\week 3\OperatorsAndControlFlow\obj\Debug\net10.0\ref\OperatorsAndControlFlow.dll
